@@ -8,7 +8,7 @@ import main_menu
 # pygame setup
 pygame.init()
 WIDTH =  1600   #sets screen limits 
-HEIGHT = 900
+HEIGHT = 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Particle Simulation v1.0")
 TEXTFONT = pygame.font.SysFont("monospace", 17)
