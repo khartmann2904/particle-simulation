@@ -10,7 +10,7 @@ The main focus of this project was exploring and comparing different **collision
 
 ## Particle Simulation with center mass point 
 
-<img width="1824" height="1053" alt="image" src="https://github.com/user-attachments/assets/37aff54f-5d94-45d5-8621-e4eee19f9192" />
+<img width="720" height="405" alt="output" src="https://github.com/user-attachments/assets/cc387505-a5bd-4277-b3e7-03e9a2a4d241" />
 
 ## Features
 
