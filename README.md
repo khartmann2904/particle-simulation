@@ -34,12 +34,21 @@ Comparing these two implementations side by side was a good hands-on way to see 
 
 ## Project Structure
 
-| File | Description |
+```
+Particle_Simulation/
+├── Menu/
+│   └── main_menu.py                      # Draws the start menu shown before the simulation begins
+├── Scripts/
+│   ├── slow_algorithm.py                 # Particle simulation using the O(n²) brute-force collision check
+│   ├── spatial_partitioning_alogrithm.py # Particle simulation using spatial partitioning for collision detection
+│   └── centered_gravitity_point.py       # Variant of the simulation involving a central gravity point
+└── README.md
+```
+
+| Folder | Contents |
 |---|---|
-| `main_menu.py` | Draws the start menu shown before the simulation begins |
-| `slow_algorithm.py` | Particle simulation using the O(n²) brute-force collision check |
-| `spatial_partitioning_alogrithm.py` | Particle simulation using spatial partitioning for collision detection |
-| `centered_gravitity_point.py` | Variant of the simulation involving a central gravity point |
+| `Menu/` | Start menu shown before the simulation begins |
+| `Scripts/` | Simulation and algorithm implementations |
 
 ## Requirements
 
@@ -56,16 +65,16 @@ pip install pygame numpy matplotlib
 
 ## Usage
 
-Run either version of the simulation directly:
+Run either version of the simulation directly from the repo root:
 
 ```bash
-python slow_algorithm.py
+python Scripts/slow_algorithm.py
 ```
 
 or
 
 ```bash
-python spatial_partitioning_alogrithm.py
+python Scripts/spatial_partitioning_alogrithm.py
 ```
 
 Press **SPACE** at the start menu to begin the simulation. Close the simulation window to end it and view the population plot.
