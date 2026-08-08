@@ -6,9 +6,11 @@ The main focus of this project was exploring and comparing different **collision
 
 <img width="2397" height="1240" alt="image" src="https://github.com/user-attachments/assets/e80290c9-b42f-48be-8a1e-9df11a9739e3" />
 
+## Analysis
+
 <img width="1794" height="1285" alt="image" src="https://github.com/user-attachments/assets/ca7d49b8-eaf2-4739-aaa7-a9f35eacf560" />
 
-## Particle Simulation with center mass point 
+## Particle Simulation With Center Mass Point 
 
 <img width="720" height="405" alt="output" src="https://github.com/user-attachments/assets/cc387505-a5bd-4277-b3e7-03e9a2a4d241" />
 
