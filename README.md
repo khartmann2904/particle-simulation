@@ -8,6 +8,8 @@ The main focus of this project was exploring and comparing different **collision
 
 ## Analysis
 
+This plot tracks the population of each of the 1000 unique particle colors over the course of a simulation run. Since colors spread through collisions ("infection"), the population curves reveal how a small number of colors can rapidly outcompete the rest — most colors stay near zero, while a handful snowball into dominant clusters once they reach a critical mass of particles. The result is a chaotic but clearly non-random growth pattern, driven purely by collision dynamics rather than any built-in bias toward specific colors.
+
 <img width="1435" height="1028" alt="image" src="https://github.com/user-attachments/assets/ca7d49b8-eaf2-4739-aaa7-a9f35eacf560" />
 
 ## Particle Simulation With Center Mass Point 
