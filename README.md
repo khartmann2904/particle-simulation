@@ -14,6 +14,8 @@ This plot tracks the population of each of the 1000 unique particle colors over 
 
 ## Particle Simulation With Center Mass Point 
 
+A variant of the simulation (`centered_gravitity_point.py`) where a fixed central mass point exerts a gravitational pull on all surrounding particles. Instead of bouncing freely off walls, particles are drawn into orbit-like trajectories around the center, gradually forming ring- and spiral-shaped structures as they settle into a dynamic equilibrium between gravitational attraction and their own momentum.
+
 <img width="720" height="405" alt="output" src="https://github.com/user-attachments/assets/cc387505-a5bd-4277-b3e7-03e9a2a4d241" />
 
 ## Features
