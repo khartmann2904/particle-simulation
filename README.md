@@ -4,11 +4,11 @@ A 2D particle simulation built with **Python** and **Pygame**, featuring elastic
 
 The main focus of this project was exploring and comparing different **collision detection algorithms** for large numbers of particles — from a naive brute-force approach to a much faster spatial partitioning approach.
 
-<img width="2397" height="1240" alt="image" src="https://github.com/user-attachments/assets/e80290c9-b42f-48be-8a1e-9df11a9739e3" />
+<img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/e80290c9-b42f-48be-8a1e-9df11a9739e3" />
 
 ## Analysis
 
-<img width="1794" height="1285" alt="image" src="https://github.com/user-attachments/assets/ca7d49b8-eaf2-4739-aaa7-a9f35eacf560" />
+<img width="1435" height="1028" alt="image" src="https://github.com/user-attachments/assets/ca7d49b8-eaf2-4739-aaa7-a9f35eacf560" />
 
 ## Particle Simulation With Center Mass Point 
 
