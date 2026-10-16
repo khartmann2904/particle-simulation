@@ -1,4 +1,4 @@
-# Particle Simulation
+# particle-simulation
 
 A 2D particle simulation built with **Python** and **Pygame**, featuring elastic collisions between particles and an "infection" mechanic where color spreads between particles on contact. The project also includes live plotting of particle populations over time via **Matplotlib**.
 
